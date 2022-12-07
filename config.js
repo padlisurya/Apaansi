@@ -38,12 +38,12 @@ global.thumb = fs.readFileSync("./src/papah2.jpg")
 global.profil = fs.readFileSync("./src/papah.png")
 global.zippy = (await import('./lib/zippy.cjs')).zippy
 global.tiny = (await import('./lib/tiny.cjs')).default
-global.gc = "https://chat.whatsapp.com/KYIzgolOI1I66efv9UMfch"
+global.gc = "https://chat.whatsapp.com/L9fpukWeZ8e4yNbH57D2wY"
 global.gh = "https://github.com/FahriAdison"
-global.yt = "https://bit.ly/Papah-Chan"
-global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
+global.yt = "https://bit.ly/padlisuryakusuma"
+global.wm = '                Padli-Bod' 
+global.wm2 = 'Padli-Bod'
+global.wm3 = '⫹⫺ Padli 𝗕𝗢𝗧'
 function ucapan() {
 	var time = moment.tz('Asia/Jakarta').format('HH')
 	var res
@@ -118,9 +118,9 @@ global.log = function log() {
 	console.log.apply(console, args);
 }
 global.owner = [
-	//  ['6281234288573'],
+	//  ['6281543385935'],
 	//['12546153210'],
-	['62895612153565', 'Johannes', true],
+	['6281543385935', 'Padli-', true],
 	['6282287219167', 'Papah-Chan', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -139,24 +139,24 @@ global.APIKeys = { // APIKey Here
 	'https://ghostui-api.herokuapp.com/': 'OC2eTK'
 }
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = 'Padli'
+global.author = 'Bod+62 838-4012-7268'
 
-global.sgc = 'https://chat.whatsapp.com/Eo0rT2MCSiWIijy7fMHlB7'
-global.sig = 'https://instagram.com/bot_whangsaf'
+global.sgc = 'https://chat.whatsapp.com/L9fpukWeZ8e4yNbH57D2wY'
+global.sig = 'https://instagram.com/padlisuryakusuma_'
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/bot_whangsaf"
+global.urlnya = "https://www.instagram.com/padlisuryakusuma_"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 822-8721-9167'
+global.phn = '+62 815-4338-5935'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
-global.nomorbot = '66801944580'
-global.nomorown = '6282287219167'
-global.namebot = 'Sad-Bot'
-global.nameown = 'Papah-Chan'
+global.nomorbot = '6283840127268'
+global.nomorown = '6281543385935'
+global.namebot = 'Padli-Bot'
+global.nameown = 'Padlii'
 global.thumb2 = fs.readFileSync('./papah.jpg')
 
 /*=========== FAKE SIZE ===========*/
